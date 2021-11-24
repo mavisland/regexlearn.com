@@ -1,0 +1,27 @@
+{
+  "general.prev": "Vorherige",
+  "general.next": "Nächste",
+  "general.result": "Ergebnis",
+  "general.regex": "Regex.",
+  "general.text": "Text",
+  "general.completedStep": "Schritt abgeschlossen!",
+  "general.hintQuestion": "Zeige die Antwort",
+  "general.reportStep": "Ein Problem melden",
+  "general.startLearning": "Beginne zu lernen",
+  "general.comingSoon": "Kommt bald",
+  "general.becomeSponsor": "Ein Sponsor werden",
+  "general.learn": "Lernen",
+  "general.playground": "Spielplatz",
+  "general.cheatsheet": "Cheatsheet",
+
+  "notFound.intro": "Die Seite, nach der Sie suchen, ist nicht vorhanden.",
+  "notFound.button": "Zurück nach Hause",
+
+  "page.landing.title": "Regex Learn - Schritt für Schritt von null bis fortgeschritten.",
+  "page.learn.title": "Regex Learn ​​- Regex Interaktiver Kurs",
+  "page.cheatsheet.title": "Regex Learn ​​- Regex CheatSheet",
+  "page.404.title": "Regex Learn - nicht gefunden",
+
+  "alert.site.under.development": "Diese Seite ist noch in der Entwicklung. Was Sie jetzt sehen, kann sich ändern.",
+  "learn.safari.unsupportWarning": "Regelmäßige Ausdrücke in diesem Schritt werden vom Safari-Browser nicht unterstützt. Wenn Sie Probleme haben, diesen Schritt in der Vergangenheit zu erhalten. Sie können hier klicken."
+}
