@@ -1,0 +1,20 @@
+{
+  "landing.title": "Lernen Sie REGEX Schritt für Schritt, von Null bis Fortgeschrittene.",
+  "landing.description": "Regex lernen ist einfacher als Sie denken. Sie können dieses Werkzeug verwenden, um einfach `lernen`, `Praxis`, `Test` und `Teilen Sie` Regex verwenden.",
+
+  "section.learn.title": "Lernen",
+  "section.learn.content": "`Reguläre Ausdrücke, abgekürzt als Regex oder RegeXP, sind eine Zeichenfolge, die im Rahmen der REGEX-Syntaxregeln erstellt wurden. Sie können Ihre Daten einfach mit Regex verwalten, der Befehle wie Finden, Anpassungen und Bearbeitung verwendet. Regex kann in Programmiersprachen wie Python, SQL, JavaScript, R, Google Analytics, Google Data Studio und während des gesamten Codierungsprozesses verwendet werden. Erlernen Sie Regex online mit Beispielen und Tutorials auf RegexLearn jetzt.",
+
+  "section.cheatsheet.button": "Jetzt überprüfen",
+  "section.cheatsheet.title": "Cheatsheet",
+  "section.cheatsheet.content": "Mit `RegexLearn Cheatsheet`, können Sie alle verwendeten Verwendungen sehen, die Sie gleichzeitig benötigen, und sie direkt von der einen Seite überprüfen. Erkunden Sie alle Regex-Muster und Symbole mit dem RegEx cheat sheet.",
+
+  "section.playground.title": "Spielplatz",
+  "section.playground.content": "Wenn Sie einen Regex generieren möchten, können Sie Ihr Regex-Muster problemlos über den Spielplatz erstellen und testen. Als Regex-Tester können Sie Ihre Regex mit anderen für die kollaborative Arbeit validieren und teilen. Demnächst.",
+
+  "section.practice.title": "Üben",
+  "section.practice.content": "Wenn Sie den Lernteil abschließen, ist es Zeit zu üben! Im Übungsabschnitt können Sie Ihr Regex-Wissen und Ihre Praxis mit Regex-Tutorials auf der Grundlage Ihres Niveaus testen. Demnächst.",
+
+  "section.opensource.title": "Open Source",
+  "section.opensource.content": "Regex Learn ​​ist ein Open-Source-Projekt, das Gemeinschaftsbeiträge begrüßt und frei ist. Durch das Arbeiten an diesem Projekt können Sie Ihre Fähigkeiten, Studie und Zusammenarbeit verbessern. Sie können hier beitragen und unterstützen."
+}
